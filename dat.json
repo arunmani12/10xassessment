@@ -1,0 +1,171 @@
+{
+  "program": "10xLeaders",
+  "userId": "f254f70d-7cde-4654-ae0b-76796ee38e20",
+  "improvementAreas": ["Domain knowledge", "Agreed to all", "gsgdgsg"],
+  "isLocked": false,
+  "overallApprovalScore": 50,
+  "strengths": ["Intuitive", "Agreed to all", "gdsgds g"],
+  "superPowers": [
+    {
+      "name": "Think 10x",
+      "score360": 5,
+      "score360QuestionCount": 12,
+      "score360Temp": 6,
+      "selfAssessmentScore": 5,
+      "selfQuestionCount": 4,
+      "selfScoreTemp": 2,
+      "traits": [
+        {
+          "name": "Big picture thinking",
+          "score360": 5,
+          "score360QuestionCount": 3,
+          "score360Temp": 1.5,
+          "selfAssessmentScore": 0,
+          "selfQuestionCount": 1,
+          "selfScoreTemp": 0
+        },
+        {
+          "name": "Strong Judgement ",
+          "score360": 5,
+          "score360QuestionCount": 6,
+          "score360Temp": 3,
+          "selfAssessmentScore": 5,
+          "selfQuestionCount": 2,
+          "selfScoreTemp": 1
+        },
+        {
+          "name": "Creative problem solving ",
+          "score360": 5,
+          "score360QuestionCount": 3,
+          "score360Temp": 1.5,
+          "selfAssessmentScore": 10,
+          "selfQuestionCount": 1,
+          "selfScoreTemp": 1
+        }
+      ]
+    },
+    {
+      "name": "Make it happen",
+      "score360": 5,
+      "score360QuestionCount": 15,
+      "score360Temp": 7.5,
+      "selfAssessmentScore": 7,
+      "selfQuestionCount": 5,
+      "selfScoreTemp": 3.5,
+      "traits": [
+        {
+          "name": "Planning and Tracking execution ",
+          "score360": 5,
+          "score360QuestionCount": 6,
+          "score360Temp": 3,
+          "selfAssessmentScore": 7.5,
+          "selfQuestionCount": 2,
+          "selfScoreTemp": 1.5
+        },
+        {
+          "name": "Communicating Effectively",
+          "score360": 5,
+          "score360QuestionCount": 3,
+          "score360Temp": 1.5,
+          "selfAssessmentScore": 10,
+          "selfQuestionCount": 1,
+          "selfScoreTemp": 1
+        },
+        {
+          "name": "Building Alignment",
+          "score360": 5,
+          "score360QuestionCount": 6,
+          "score360Temp": 3,
+          "selfAssessmentScore": 5,
+          "selfQuestionCount": 2,
+          "selfScoreTemp": 1
+        }
+      ]
+    },
+    {
+      "name": "Architect tomorrow's team",
+      "score360": 5,
+      "score360QuestionCount": 12,
+      "score360Temp": 6,
+      "selfAssessmentScore": 6.25,
+      "selfQuestionCount": 4,
+      "selfScoreTemp": 2.5,
+      "traits": [
+        {
+          "name": "Design thinking in team building ",
+          "score360": 5,
+          "score360QuestionCount": 6,
+          "score360Temp": 3,
+          "selfAssessmentScore": 7.5,
+          "selfQuestionCount": 2,
+          "selfScoreTemp": 1.5
+        },
+        {
+          "name": "Growing the team",
+          "score360": 5,
+          "score360QuestionCount": 3,
+          "score360Temp": 1.5,
+          "selfAssessmentScore": 0,
+          "selfQuestionCount": 1,
+          "selfScoreTemp": 0
+        },
+        {
+          "name": "Coaching",
+          "score360": 5,
+          "score360QuestionCount": 3,
+          "score360Temp": 1.5,
+          "selfAssessmentScore": 10,
+          "selfQuestionCount": 1,
+          "selfScoreTemp": 1
+        }
+      ]
+    },
+    {
+      "name": "10x yourself",
+      "score360": 5,
+      "score360QuestionCount": 12,
+      "score360Temp": 6,
+      "selfAssessmentScore": 6.25,
+      "selfQuestionCount": 4,
+      "selfScoreTemp": 2.5,
+      "traits": [
+        {
+          "name": "Self-awareness",
+          "score360": 5,
+          "score360QuestionCount": 3,
+          "score360Temp": 1.5,
+          "selfAssessmentScore": 5,
+          "selfQuestionCount": 1,
+          "selfScoreTemp": 0.5
+        },
+        {
+          "name": "Continuous Learning ",
+          "score360": 5,
+          "score360QuestionCount": 3,
+          "score360Temp": 1.5,
+          "selfAssessmentScore": 10,
+          "selfQuestionCount": 1,
+          "selfScoreTemp": 1
+        },
+        {
+          "name": "Resilience",
+          "score360": 5,
+          "score360QuestionCount": 3,
+          "score360Temp": 1.5,
+          "selfAssessmentScore": 0,
+          "selfQuestionCount": 1,
+          "selfScoreTemp": 0
+        },
+        {
+          "name": "Mission Alignment",
+          "score360": 5,
+          "score360QuestionCount": 3,
+          "score360Temp": 1.5,
+          "selfAssessmentScore": 10,
+          "selfQuestionCount": 1,
+          "selfScoreTemp": 1
+        }
+      ]
+    }
+  ]
+}
